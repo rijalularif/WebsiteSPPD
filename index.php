@@ -6,6 +6,7 @@
     <link rel="icon" href="images/logotitle.png"/>
     <title>Sign In Sistem Informasi SPPD Kominfo Pasaman</title>
     <!-- Tell the browser to be responsive to screen width -->
+	<meta name="author" content="Rijalul Arif">
     <meta content="width=device-width, initial-scale=1" name="viewport">
     <!-- Bootstrap -->
     <link rel="stylesheet" href="theme/bootstrap/css/bootstrap.min.css">
