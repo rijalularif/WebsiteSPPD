@@ -12,7 +12,7 @@ Website ini merupakan sistem informasi surat perintah perjalanan dinas (SPPD) ya
 
 **Teknologi**
 
-* Bahasa pemrograman: HTML (80,5%), JavaScript (12,7%), PHP (5,2%), CSS (1,5%)
+* Bahasa pemrograman: HTML, JavaScript, PHP, CSS
 * Database: MySQL
 
 **Cara penggunaan**
