@@ -1,21 +1,21 @@
-**Website Sistem Informasi Surat Perintah Perjalanan Dinas Pada Dinas Komunikasi dan Informatika Kabupaten Pasaman**
+# Website Sistem Informasi Surat Perintah Perjalanan Dinas Pada Dinas Komunikasi dan Informatika Kabupaten Pasaman
 
-**Deskripsi**
+## Deskripsi
 
 Website ini merupakan sistem informasi surat perintah perjalanan dinas (SPPD) yang digunakan oleh Dinas Komunikasi dan Informatika Kabupaten Pasaman. Sistem ini bertujuan untuk memudahkan proses pembuatan SPPD, mulai dari penginputan data, persetujuan, hingga pencetakan.
 
-**Fitur**
+## Fitur
 
 * Penginputan data SPPD
 * Persetujuan SPPD oleh atasan
 * Pencetakan SPPD
 
-**Teknologi**
+## Teknologi
 
 * Bahasa pemrograman: HTML, JavaScript, PHP, CSS
 * Database: MySQL
 
-**Cara penggunaan**
+## Cara penggunaan
 
 Untuk menggunakan sistem ini, pengguna harus terlebih dahulu mendaftarkan akun. Setelah akun dibuat, pengguna dapat mengakses sistem dengan memasukkan username dan password.
 
@@ -31,7 +31,7 @@ Setelah data SPPD diisi, pengguna dapat mengajukan persetujuan kepada atasan. At
 
 Jika permohonan SPPD disetujui, sistem akan mencetak SPPD. SPPD yang telah dicetak dapat digunakan oleh pegawai untuk melakukan perjalanan dinas.
 
-**Pengembangan**
+## Pengembangan
 
 Sistem ini masih dalam tahap pengembangan. Pengembangan yang akan dilakukan antara lain:
 
